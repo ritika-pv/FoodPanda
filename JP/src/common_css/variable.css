@@ -1,0 +1,10 @@
+#root {
+  --primary-box-shadow:  rgb(137, 135, 135) 1px 1px 2px;
+  --border-white: rgb(232, 232, 232);
+  --primary-bg: rgb(255, 255, 255);
+  --grey-color: #828282;
+  --location-red: #ff5f1f;
+  --inactive-tab: #696969;
+  --inactive-color: #f8f8f8;
+
+}
